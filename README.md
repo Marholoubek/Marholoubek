@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Marholoubek
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React more properly 
-- 💞️ I’m looking to collaborate on Node.js web aplication
-- 📫 You can reach me via contact on my portfolio martinholoubek.herokuapp.com
+**Full Stack Developer**
 
+_Web and Mobile applications._
+
+Languages I talk: C, JavaScript, Dart, Python.
+The closest friends: Node.js, PostgreSQL, MongoDB, Flutter, Firebase, Git and coffee.
+
+For more information about me, please visit my portfolio: https://martinholoubek.herokuapp.com
