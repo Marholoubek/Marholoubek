@@ -7,4 +7,4 @@ I usually work at organizations repositories. That's where my contributions are 
 Languages I talk: C, JavaScript, Dart, Python.
 The closest friends: Node.js, PostgreSQL, MongoDB, Flutter, Firebase, Git and coffee.
 
-For more information about me, please visit my portfolio: https://martinholoubek.herokuapp.com
+For more information about me, please visit my portfolio: http://www.martinholoubek.cz
