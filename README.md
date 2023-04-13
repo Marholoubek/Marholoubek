@@ -1,10 +1,9 @@
-**Full Stack Developer**
+**Software Engineer**
 
-_Web and Mobile applications._
+_Working at Mastercard as Java developer_
 
-I usually work at organizations repositories. That's where my contributions are comming from.
+Working as a backend developer in Danish open banking enviroment. Among the main stack belong _Java, Spring Boot and Kafka_. 
 
-Languages I talk: C, C#, JavaScript, Dart, Python.
-Technologies: Node.js, PostgreSQL, MongoDB, Flutter, Firebase, Git, GitHub, Vue.js.
+My personal project are mainly fosued on cross platform mobile apps development with _Dart & Flutter_. Check the app stores for _GetCoffee_, or _Stampit_ to see my work.
 
-For more information about me, please visit my portfolio: https://martinholoubek.cz
+Another languages I talk: C, C#, JavaScript, TypeScript, Python.
