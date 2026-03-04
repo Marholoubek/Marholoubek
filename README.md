@@ -1,9 +1,20 @@
 **Software Engineer**
 
-_Working at Mastercard as Flutter & Dart developer and on personal projects_
+_Working at Mastercard as a Java backend engineer; building side hustles in the evenings._
 
-Working as a software engineer in Danish open banking enviroment. Among the main stack belongs _Flutter & Dart, Java, Spring Boot, PostgreSQK and Kafka_. 
+Check out my [portfolio](https://martinholoubek.dev) to see what I’ve built.
 
-Check out my [portfolio](https://martinholoubek.dev) to try out my personal projects and to learn more about me.
+### Stack (most common)
+- **Backend:** Java, Spring Boot, PostgreSQL  
+  - Sometimes: serverless **Node.js** (Cloud Functions)
+- **Frontend:** **Next.js** (web), **Flutter/Dart** (mobile)  
+  - Sometimes: native **Swift** when I have the time
+- **Deployment:** Google Cloud
+- **Auth / analytics / small extras:** Firebase
 
-Other technologies: C, C#, JS, TS, Python, PostgreSQL, SQL, Firebase, Google Cloud
+### Also worked with
+C, C#/.NET, Kafka, Neo4j
+
+---
+
+At the end of the day, the tools are just tools. I like solving problems—and if there’s something new to learn, even better.
